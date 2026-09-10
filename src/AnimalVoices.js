@@ -45,7 +45,7 @@ export const ANIMAL_VOICES = {
   "Oyster": { en: "/voices/43-oyster.mp3", ar: "/voices/43-oyster-ar.mp3" },
   "Coral Reef": { en: "/voices/44-coral-reef.mp3", ar: "/voices/44-coral-reef-ar.mp3" },
   "Walrus": { en: "/voices/45-walrus.mp3", ar: "/voices/45-walrus-ar.mp3" },
-  "Eagle": { en: "/voices/46-eagle.mp3", ar: "/voices/46-eagle-ar.mp3" },
+  "Golden Eagle": { en: "/voices/46-eagle.mp3", ar: "/voices/46-eagle-ar.mp3" },
   "Parrot": { en: "/voices/47-parrot.mp3", ar: "/voices/47-parrot-ar.mp3" },
   "Owl": { en: "/voices/48-owl.mp3", ar: "/voices/48-owl-ar.mp3" },
   "Peacock": { en: "/voices/49-peacock.mp3", ar: "/voices/49-peacock-ar.mp3" },
